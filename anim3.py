@@ -1,5 +1,9 @@
 
 #for each element in first array count number of elements less tahn or equal it in the second array
+
+def vec(x,y):
+    return x*RIGHT+y*UP
+
 class array_ob():
     def __init__(self,a):
         arr=[]

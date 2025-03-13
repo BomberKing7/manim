@@ -1,5 +1,9 @@
 
 #merge two sorted arrays
+
+def vec(x,y):
+    return x*RIGHT+y*UP
+
 class array_ob():
     def __init__(self,a):
         arr=[]

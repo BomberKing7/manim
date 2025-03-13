@@ -1,4 +1,8 @@
 #check if an array is sub sequence of another array
+
+def vec(x,y):
+    return x*RIGHT+y*UP
+
 class array_ob():
     def __init__(self,a):
         arr=[]
