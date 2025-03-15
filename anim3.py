@@ -1,6 +1,6 @@
 
 #for each element in first array count number of elements less tahn or equal it in the second array
-
+from manim import *
 def vec(x,y):
     return x*RIGHT+y*UP
 

@@ -1,5 +1,5 @@
 #check if an array is sub array of another array
-
+from manim import *
 def vec(x,y):
     return x*RIGHT+y*UP
 

@@ -1,6 +1,6 @@
 
 #merge two sorted arrays
-
+from manim import *
 def vec(x,y):
     return x*RIGHT+y*UP
 

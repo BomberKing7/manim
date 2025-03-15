@@ -1,6 +1,6 @@
 
 # number of subarrays with sum less than or equal x
-
+from manim import *
 def vec(x,y):
     return x*RIGHT+y*UP
 
